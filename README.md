@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://github.com/Karthik-Krishnano/Karthik-Krishnano/blob/main/web.png" alt="Dhinesh Kumar R">
+  <img src="https://github.com/DhineshKumarR/DhineshKumarR/blob/main/Dhinesh%20GIF.gif" alt="Dhinesh Kumar R">
 </p>
 
 
