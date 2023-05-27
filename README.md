@@ -4,18 +4,16 @@
   <img src="https://github.com/DhineshKumarR/DhineshKumarR/blob/main/Dhinesh%20GIF.gif" alt="Dhinesh Kumar R">
 </p>
 
+## 📫  Reach me on
 
-<!--
-**DhineshKumarR/DhineshKumarR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="mailto:rsdhinesh12@gmail.com">
+  <img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="email" width="100"/>
+</a>
+  
+<a href="https://www.linkedin.com/in/dhinesh-kumar-ravi-ba299787/">
+  <img src="https://www.freepnglogos.com/uploads/linkedin-in-logo-png-1.png" alt="linkedin" width="110"/>
+</a>
+  
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
