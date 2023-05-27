@@ -4,7 +4,7 @@
   <img src="https://github.com/DhineshKumarR/DhineshKumarR/blob/main/Dhinesh%20GIF.gif" alt="Dhinesh Kumar R">
 </p>
 <p align="center">
-🌱 I'm a passionate Researcher, Coder, and Innovator in the field of Artificial Intelligence and Autonomous Vehicles.
+🌱 I'm a passionate Researcher, Coder, and Innovator in the field of Telecom, Artificial Intelligence and Autonomous Vehicles.
 
 🚀 Here are a few things that describe me:
    - 💡 AI Enthusiast
